@@ -28,17 +28,25 @@
 	<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### Version Control
+### Tools
 
 <p>
 	<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+	<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+	<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/> 
+	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 ##### Databases
 <P>
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </P>
+
+### 🔗 Links
+Visit my [linkedin]([www.linkedin.com/in/jean-louis-dumas-0a119b260](https://www.linkedin.com/in/jean-louis-dumas-0a119b260/)) !   
+To view my portfolio, click [here]([https://portfolio-saeba33s-projects.vercel.app/](https://portfolio-dumas-jeanlouis.vercel.app/)) ! 
 
 <!--
 **Frequencerz911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
