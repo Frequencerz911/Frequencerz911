@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/Frequencerz911/Frequencerz911/blob/main/Banner%20Github.png" alt="banner">
 
 ## Languages
 
